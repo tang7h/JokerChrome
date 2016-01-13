@@ -2,7 +2,7 @@
 
 ------
 
-chrome的常用功能我就不说了，F12,element,network,timeline,resources,aduits,console这些我就默认大家都已经掌握了。
+chrome的常用功能我就不说了，F12,element,network,timeline,resources,audits,console这些我就默认大家都已经掌握了。
 
 
 
